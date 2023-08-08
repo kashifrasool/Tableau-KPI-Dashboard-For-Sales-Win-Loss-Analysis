@@ -4,3 +4,7 @@ Complete Business Dashboard Project
 
 This tableau dashboard shows design of a Sales Win Loss dashboard which presents sales data to see the visulization representation of Win/loss of sales.
 
+
+Link to Tableau Public:
+
+https://public.tableau.com/app/profile/kashif.rasool/viz/WinLossSalesDashboard-KashifRasool/Dashboard

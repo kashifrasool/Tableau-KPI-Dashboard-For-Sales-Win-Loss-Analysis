@@ -2,7 +2,7 @@ Tableau KPI Dashboard For Sales Win Loss Analysis -
 Complete Business Dashboard Project
 
 
-This tableau dashboard shows design of a Sales Win Loss dashboard which presents sales data to see the visulization representation of Win/loss of sales.
+This tableau dashboard shows the design of a Sales Win Loss dashboard which presents sales data to see the visulization representation of Win/loss of sales.
 
 
 Link to Check my Tableau Public Account for Dashboard Viz:
